@@ -1,0 +1,8 @@
+c:\users\ajaiswal\documents\visual studio 2013\Projects\cc\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\ajaiswal\documents\visual studio 2013\Projects\cc\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\ajaiswal\documents\visual studio 2013\Projects\cc\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\ajaiswal\documents\visual studio 2013\Projects\cc\ConsoleApplication2\bin\Debug\itextsharp.dll
+c:\users\ajaiswal\documents\visual studio 2013\Projects\cc\ConsoleApplication2\bin\Debug\itextsharp.xml
+c:\users\ajaiswal\documents\visual studio 2013\Projects\cc\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+c:\users\ajaiswal\documents\visual studio 2013\Projects\cc\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\ajaiswal\documents\visual studio 2013\Projects\cc\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
